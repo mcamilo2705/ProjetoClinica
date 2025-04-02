@@ -1,0 +1,20 @@
+MER (Modelo de Entidade Relacionamento) --> Planejamento para a criacao de tabelas
+DER (Diagrama de Entidade Relacionamento) --> Desenho visual das tabelas
+
+Clinica medica - Agendar Consultas
+Tabelas
+Medicos - Nome, Especialidade, CRM, HorarioTrabalho
+Pacientes - Nome, Idade, CPF, Convenio, Endereco, DataNasc, Sexo, MedicoResponsavel
+Consultas - Data, Horario, Medico, Paciente, Especialidades
+
+Relacionamentos
+
+
+DDL --> Create, Alter, Drop 
+DML --> Insert, Delete, Update
+DQL --> Select
+
+modelo conceitual --> so faz as tabelas (abstrato)
+modelo logico --> informa os campos
+modelo fisico --> informa os tidos de dados
+

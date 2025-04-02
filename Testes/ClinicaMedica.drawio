@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.3" pages="3">
+  <diagram name="Modelo conceitual" id="XJc79qeLwXaZQegzi9rI">
+    <mxGraphModel dx="418" dy="225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3dppU04SeRHl2wdxv3HG-57" value="Medico" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="3dppU04SeRHl2wdxv3HG-58" target="3dppU04SeRHl2wdxv3HG-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-58" value="Paciente" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="700" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="3dppU04SeRHl2wdxv3HG-59" target="3dppU04SeRHl2wdxv3HG-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-59" value="Consulta" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="3dppU04SeRHl2wdxv3HG-60" target="3dppU04SeRHl2wdxv3HG-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-60" value="Localidade" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="3dppU04SeRHl2wdxv3HG-66" target="3dppU04SeRHl2wdxv3HG-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-66" value="Possui" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="3dppU04SeRHl2wdxv3HG-70" target="3dppU04SeRHl2wdxv3HG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-70" value="Possui" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="524" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="3dppU04SeRHl2wdxv3HG-74" target="3dppU04SeRHl2wdxv3HG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-74" value="Possui" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3dppU04SeRHl2wdxv3HG-80" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tSEoyFwH2tr-Kf0IpZKN-1" value="(0, N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tSEoyFwH2tr-Kf0IpZKN-2" value="Consulta precisa ter 1 medico&amp;nbsp;&lt;div&gt;E pode ter no máximo um medico&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tSEoyFwH2tr-Kf0IpZKN-3" value="Medico nao precisa ter consultas&lt;div&gt;E pode ter infinitas consultas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tSEoyFwH2tr-Kf0IpZKN-4" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="644" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tSEoyFwH2tr-Kf0IpZKN-5" value="(0, N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="474" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tSEoyFwH2tr-Kf0IpZKN-9" value="(0, N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tSEoyFwH2tr-Kf0IpZKN-11" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tSEoyFwH2tr-Kf0IpZKN-12" value="Paciente nao precisa ter consulta &quot;0&quot;&lt;div&gt;Mais paciente pode ter varias consultas &quot;N&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="100" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tSEoyFwH2tr-Kf0IpZKN-13" value="Consulta precisa ter &quot;1&quot; paciente&lt;div&gt;e no máximo a consulta pode ter &quot;1&quot; paciente&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="120" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tSEoyFwH2tr-Kf0IpZKN-14" value="Localidade nao precisa ter consulta &quot;0&quot;&lt;div&gt;Mas Localidade pode ter varias consultas &quot;N&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="220" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tSEoyFwH2tr-Kf0IpZKN-15" value="Consultas precisa ter localidade &quot;1&quot;&lt;div&gt;Mas Localidade pode ter varias consultas &quot;N&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="310" width="260" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kzHvt4eMKb_3tpxGKZ4m" name="Modelo lógico">
+    <mxGraphModel dx="1044" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kAMq7JZ3V7Dj62kXD_8T" name="Modelo fisico">
+    <mxGraphModel dx="1044" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
